@@ -2,6 +2,7 @@
 A voice-enabled AI dermatology assistant that analyzes skin images and provides diagnoses via natural conversation. Built with Gradio, Groq API, and medical LLMs.
 
 Skintel Demo (Add a image of your skin problems here)
+https://huggingface.co/spaces/srujansri1/skintel-ai
 
 Features
 🖼️ Upload skin images for visual analysis
